@@ -337,6 +337,6 @@ This project was my **first hands-on experience with Machine Learning**, and it 
 
 **Harshad Thakur**
 
-Data Science / Analytics Portfolio Project
+Data Science / Machine Learning Portfolio Project
 
 [LinkedIn](https://www.linkedin.com/in/harshad-thakur-94a124341/) · [GitHub](https://github.com/harshthak53-hue)
